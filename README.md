@@ -1,12 +1,3 @@
-'''  
-//
-//  README.md
-//  apple_lab08_01_Introduction_SwiftUI
-//
-//  Created by developer on 4/30/25.
-//
-'''
-
 ## Introduction to SwiftUI
 
 #### - Example 1: Text and Styling
