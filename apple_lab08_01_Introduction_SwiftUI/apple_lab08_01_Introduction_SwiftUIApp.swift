@@ -11,9 +11,12 @@ import SwiftUI
 struct apple_lab08_01_Introduction_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            // ContentView()
-            _5_CardExampleView()
-            //_6_ListExampleView()
+            _1_ContentView()
+            // _2_StacksExampleView()
+            // _3_CounterView()
+            // _4_FormExampleView()
+            // _5_CardExampleView()
+            // _6_ListExampleView()
         }
     }
 }
