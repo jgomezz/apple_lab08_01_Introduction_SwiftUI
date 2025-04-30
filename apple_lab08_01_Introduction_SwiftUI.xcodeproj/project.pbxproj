@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8BF0C4D52DC2AA120010674D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8BF0C4D42DC2AA0D0010674D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		8BF0C4BD2DC164C70010674D /* apple_lab08_01_Introduction_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = apple_lab08_01_Introduction_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BF0C4D42DC2AA0D0010674D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		8BF0C4B42DC164C70010674D = {
 			isa = PBXGroup;
 			children = (
+				8BF0C4D42DC2AA0D0010674D /* README.md */,
 				8BF0C4BF2DC164C70010674D /* apple_lab08_01_Introduction_SwiftUI */,
 				8BF0C4BE2DC164C70010674D /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BF0C4D52DC2AA120010674D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
